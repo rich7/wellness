@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>  
+<html lang="nl">
+<meta charset="utf-8">
+<head>
+	<title>A-Style Beautyfarm - Nieuwegein de Spa Vlakbij Utrecht</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<link rel="shortcut icon" href="wellnessOK.ico"> 
+	<meta name="author" content="A-Style beautyfarm">
+	<meta name="description" content="Luxe wellnessarrangement? Dagje BEAUTYFARM? A-Style Spa - Nieuwegein (Utrecht)">
+	<meta name="keywords" content="beautyfarm,beautydag,wellness, spa-resort,  utrecht,wellnessresort,wellnesscentrum,wellnessarrangement,Top klasse wellness, beauty-arrangement,beautyarrangement,kuuroord,beautyarrangementen,spa arrangementen,beautycentrum,beauty centre,A-Style,kuurdag, wellness,thermen,schoonheidssalon">
+
+	<link rel="stylesheet" type="text/css" href="jscss/rr_style1.css" />
+	
+		<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="nl"> <![endif]-->
+		<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="nl"> <![endif]-->
+		<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="nl"> <![endif]-->
+		<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="nl"> <![endif]-->
+		<!--[if gt IE 9]><!--><html class="no-js" lang="nl"><!--<![endif]-->
+
+</head>
+<body id="page">
+	<ul class="cb-slideshow">
+		<li><span>Image 01</span><div><h3>Ontspanning</h3></div></li>
+		<li><span>Image 02</span><div><h3>Genieten</h3></div></li>
+		<li><span>Image 03</span><div><h3>Top Wellness</h3></div></li>
+		<li><span>Image 04</span><div><h3>met of zonder sauna</h3></div></li>
+		<li><span>Image 05</span><div><h3>Luxe</h3></div></li>
+		<li><span>Image 06</span><div><h3>Relaxed</h3></div></li>
+	</ul>
+	<div class="container">
+		<!-- Codrops top bar -->
+		<div class="codrops-top">
+		  
+			<span class="right">
+				<a href="wellness_arrangementen.html" target="_blank">Beautydagen en wellnessarrangementen</a>
+					
+			</span>
+			<div class="clr"></div>
+		</div><!--/ Codrops top bar -->
+		<header>
+			<h4>A-Style beautyfarm</h4>
+			<h2>Top wellnessdag
+			<p class="codrops-demos">
+				<a href="wellness_arrangementen.html" >Arrangementen</a>
+				<a href="http://kuuroord-nieuwegein.nl/gastenboek/index1.html">Recensies</a>
+				<a href="spa_wellness_arrangementen/info_all_blocks.html">Prijslijst</a>
+				<a href="spa_wellness_arrangementen/info_all_blocks.html">Direct Boeken</a>
+				<a href="spa_wellness_arrangementen/info_all_blocks.html#colofon">Contact</a>
+			</p></h2>
+		</header>
+	</div>
+</body>
+<!---<script type="text/javascript" src="jscss/modernizr.custom.86080.js"></script> -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53453236-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>
